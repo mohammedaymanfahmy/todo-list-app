@@ -1,7 +1,7 @@
 # todo-list-app
 React Native app
 Main Screen
-![Main Screen](https://user-images.githubusercontent.com/68743727/172595206-3ef65d25-c6c3-400c-bf78-1c73ff339d2f.jpeg)
+![Main Screen](https://user-images.githubusercontent.com/68743727/172595206-3ef65d25-c6c3-400c-bf78-1c73ff339d2f.jpeg | width=100)
 
 List View
 ![List View](https://user-images.githubusercontent.com/68743727/172595395-6679cfc9-2f10-47f7-ad38-98519856ada3.jpeg)
