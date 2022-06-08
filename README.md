@@ -1,5 +1,5 @@
-# todo-list-app
-React Native app
+# todo-list-app (React Native app)
+
 
 Main Screen
 
