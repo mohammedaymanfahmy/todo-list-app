@@ -3,9 +3,7 @@ React Native app
 
 
 Main Screen
-<img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/68743727/172595206-3ef65d25-c6c3-400c-bf78-1c73ff339d2f.jpeg)" width="250">
-
-![Main Screen](https://user-images.githubusercontent.com/68743727/172595206-3ef65d25-c6c3-400c-bf78-1c73ff339d2f.jpeg | width=100)
+![Main Screen](https://user-images.githubusercontent.com/68743727/172595206-3ef65d25-c6c3-400c-bf78-1c73ff339d2f.jpeg)
 
 
 List View
